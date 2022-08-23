@@ -8,7 +8,7 @@ export default function App() {
   return (
     <SafeAreaView style={ styles.AndroidSafeArea }>
       <WebView  
-        source={{ uri: 'https://to-booking-vue---0313.web.app' }}
+        source={{ uri: 'https://to-booking-vue---0076.web.app' }}
       />
     </SafeAreaView>
   );
